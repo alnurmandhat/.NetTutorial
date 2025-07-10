@@ -8,5 +8,13 @@ namespace t1
 {
     internal class t1_q8
     {
+        public static void Main(string[] args)
+        {
+            Console.WriteLine("24SOECE13034 - MANDHAT ALNUR");
+            Console.Write("Enter String : ");
+            string str = Console.ReadLine();
+            Console.Write(str.ToUpper());
+        }
+
     }
 }
