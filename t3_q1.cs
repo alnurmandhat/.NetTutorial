@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Tutorials
+namespace T1
 {
     internal class t3_q1
     {
