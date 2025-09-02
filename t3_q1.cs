@@ -50,7 +50,7 @@ namespace Tutorials
         {
             static void Main(string[] args)
             {
-                Console.WriteLine("24SOECE13033 - YASHVI MAKWANA");
+                Console.WriteLine("24SOECE13034 - ALNUR MANDHAT");
                 // Task 5: Create objects of Car class
 
                 // Object 1
